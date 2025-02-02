@@ -10,12 +10,14 @@
 #include "Profit.h"
 #include "interest.h"
 #include "truckCapacity.h"
+#include "carFare.h"
 
 
 int main() {
     //amountTillDead();
     //profits();
     //faceValueCalculation();
-    holdCapacity();
+    //holdCapacity();
+    calcCarFare();
     return 0;
 }
