@@ -8,10 +8,14 @@
 #include <iostream>
 #include "labratory.h"
 #include "Profit.h"
+#include "interest.h"
+#include "truckCapacity.h"
 
 
 int main() {
     //amountTillDead();
-    profits();
+    //profits();
+    //faceValueCalculation();
+    holdCapacity();
     return 0;
 }
