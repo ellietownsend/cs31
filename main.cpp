@@ -11,6 +11,8 @@
 #include "interest.h"
 #include "truckCapacity.h"
 #include "carFare.h"
+#include "calorieBurn.h"
+#include "babylonianAlgorithm.h"
 
 
 int main() {
@@ -18,6 +20,8 @@ int main() {
     //profits();
     //faceValueCalculation();
     //holdCapacity();
-    calcCarFare();
+    //calcCarFare();
+    //caloriesBurnt();
+    squareRoot();
     return 0;
 }
