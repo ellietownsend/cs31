@@ -13,6 +13,8 @@
 #include "carFare.h"
 #include "calorieBurn.h"
 #include "babylonianAlgorithm.h"
+#include "arcade.h"
+#include "travel.h"
 
 
 int main() {
@@ -22,6 +24,8 @@ int main() {
     //holdCapacity();
     //calcCarFare();
     //caloriesBurnt();
-    squareRoot();
+    //squareRoot();
+    //candyCount();
+    traveled();
     return 0;
 }
