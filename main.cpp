@@ -15,6 +15,8 @@
 #include "babylonianAlgorithm.h"
 #include "arcade.h"
 #include "travel.h"
+#include "time.h"
+#include "weight.h"
 
 
 int main() {
@@ -26,6 +28,8 @@ int main() {
     //caloriesBurnt();
     //squareRoot();
     //candyCount();
-    traveled();
+    //traveled();
+    //timeCalc();
+    idealWeight();
     return 0;
 }
