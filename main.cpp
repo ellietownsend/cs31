@@ -7,7 +7,11 @@
 
 #include <iostream>
 #include "apartmentCosts.h"
+#include "deposit.h"
+#include "donations.h"
 
 int main() {
-    apartmentFloorCost();
+    //apartmentFloorCost();
+    //monthCount();
+    donation();
 }
