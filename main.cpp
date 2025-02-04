@@ -9,9 +9,13 @@
 #include "apartmentCosts.h"
 #include "deposit.h"
 #include "donations.h"
+#include "prime.h"
+#include "cryptarithmetic.h"
 
 int main() {
     //apartmentFloorCost();
     //monthCount();
-    donation();
+    //donation();
+    //findPrime();
+    findInts();
 }
