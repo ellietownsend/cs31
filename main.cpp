@@ -11,11 +11,17 @@
 #include "donations.h"
 #include "prime.h"
 #include "cryptarithmetic.h"
+#include "bouyancy.h"
+#include "grade.h"
+#include "tempature.h"
 
 int main() {
     //apartmentFloorCost();
     //monthCount();
     //donation();
     //findPrime();
-    findInts();
+    //findInts();
+    //sinkOrFloat();
+    //calcGrade();
+    celsiusToFahernheit();
 }
